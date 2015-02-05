@@ -1,0 +1,12 @@
+/mysensors-web/bootstrap/compiled.php
+/mysensors-web/vendor
+/mysensors-controller/target/*
+composer.phar
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.idea
+*.iml
+*.class
